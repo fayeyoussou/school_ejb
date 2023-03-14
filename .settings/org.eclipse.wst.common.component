@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="school_ejb">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/school_ejb/build/classes"/>
+        <property name="ClientProject" value="school_ejbClient"/>
+        <property name="ClientJARURI" value="school_ejbClient.jar"/>
+    </wb-module>
+</project-modules>
